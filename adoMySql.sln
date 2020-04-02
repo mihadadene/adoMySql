@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adoMySql", "adoMySql\adoMySql.csproj", "{87BE29E7-947F-4263-BB0E-45CFAB075C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87BE29E7-947F-4263-BB0E-45CFAB075C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BE29E7-947F-4263-BB0E-45CFAB075C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BE29E7-947F-4263-BB0E-45CFAB075C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BE29E7-947F-4263-BB0E-45CFAB075C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4446D58A-2250-49C6-AD3F-B707B2E40666}
+	EndGlobalSection
+EndGlobal
